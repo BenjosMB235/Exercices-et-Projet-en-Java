@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Benjos\workspace\UtilisationThread"/>
+		<item value="C:\Users\Benjos\workspace\UtilisationSwing"/>
+		<item value="C:\Users\Benjos\workspace\Tp_SuiteFubonaci"/>
+		<item value="C:\Users\Benjos\workspace\Tp_Factoriel"/>
+		<item value="C:\Users\Benjos\workspace\Projet2"/>
+		<item value="C:\Users\Benjos\workspace\Projet 2"/>
+		<item value="C:\Users\Benjos\workspace\MultiConnexion"/>
+		<item value="C:\Users\Benjos\workspace\heritage"/>
+		<item value="C:\Users\Benjos\workspace\GestionIndemnite"/>
+		<item value="C:\Users\Benjos\workspace\Fenetre"/>
+		<item value="C:\Users\Benjos\workspace\exercice2"/>
+		<item value="C:\Users\Benjos\workspace\EssaiJava"/>
+		<item value="C:\Users\Benjos\workspace\Exercices"/>
+		<item value="C:\Users\Benjos\workspace\Formulaire"/>
+		<item value="C:\Users\Benjos\workspace\exercice3"/>
+		<item value="C:\Users\Benjos\workspace\Tp_PGCD"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jst.j2ee.internal"/>
+		</list>
+	</section>
+</section>
